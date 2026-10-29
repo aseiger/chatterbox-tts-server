@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+# voice clips stay local
+voices/*
+!voices/README.md
